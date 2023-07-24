@@ -2,8 +2,6 @@
 Rocket Game with Pygame
 ![game](https://github.com/Klajdis32/RocketGameWithPython/assets/130284006/7f51599a-b102-4950-a9d7-665d7c18e6f3)
 
-
-
 **Description:**
 Rocket Game is an exciting space-themed game that puts players in control of a rocket traveling through the cosmos. The objective is to navigate the rocket through a challenging environment, avoiding obstacles and destroying enemies to score points and progress through different levels.
 
