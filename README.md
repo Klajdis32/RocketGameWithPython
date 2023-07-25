@@ -45,7 +45,7 @@ Navigate to the folder of your Pygame project using the "cd" command.
 Enter the following command to install Pygame using pip: **pip install pygame**
 
 **Step 5**: Open the project folder (Rocket Game) in Visual Studio Code:
-To run the game you ned only the 2 files inside the Rocket Game folder, the folder with the **images** and the **game.py** file.
+To run the game you need only the 2 files inside the Rocket Game folder, the folder with the **images** and the **game.py** file.
 
 **Step 6**: Run your Pygame project with the following command, you have to write it in the terminal of VS Code: **python game.py**
 
